@@ -163,7 +163,8 @@ It gives an overview of all the activities under the selected project and is div
 
 <p align="center">
   <a href="https://koders.in/">
-    <img src="./assets/logo1.png" alt="Logo" width="200" height="200">
+    <img src="./![1618345336979](https://user-images.githubusercontent.com/68822024/186404564-82dee1d2-28fa-47c3-98a7-3b3877f314cd.jpg)
+" alt="Logo" width="200" height="200">
   </a>
 </p>
 <p align="center">
