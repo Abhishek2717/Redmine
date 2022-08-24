@@ -1,7 +1,6 @@
 <div align="center" >
     <h1>Project Management App</h1>
  </h1>
-    ![1618345336979](https://user-images.githubusercontent.com/68822024/186404714-2c0c5bfd-5901-452a-8ec3-1b3b87fc45bf.jpg)
 
 [![Follow](https://img.shields.io/github/followers/koders-in?label=Koders&style=social)](https://github.com/koders-in)
 [![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=Koders&logo=discord&style=flat-square)](https://discord.gg/hGS24JC)
